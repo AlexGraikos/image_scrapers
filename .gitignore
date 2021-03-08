@@ -1,0 +1,21 @@
+# Ignore downloaded data 
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tif
+*.tiff
+*.JPG
+*.JPEG
+*.PNG
+*.BMP
+*.TIF
+*.TIFF
+*.json
+
+# Ignore compiled files
+*.pyc
+
+# Ignore API keys
+*.key
+
